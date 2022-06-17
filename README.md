@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yumyeonghan/yumyeonghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ### backend developer
-- web
+- Web Project
 
 ### Interest
 - Spring, Spring Boot, Jpa, Spring Data Jpa, Query DSL
