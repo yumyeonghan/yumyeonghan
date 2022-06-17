@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 <div align=center>
 
   ### Introduce
-반갑습니다. 제 이름은 유명한입니다. 현재 컴퓨터공학부 재학 중이고 백엔드를 공부하고 있습니다.
+  반갑습니다. 제 이름은 유명한입니다. 
+  현재 컴퓨터공학부 재학 중이고 백엔드를 공부하고 있습니다.
 
-### Interest
-Java, Spring, Spring Boot, Jpa, Spring Data Jpa, Query DSL
+  ### Interest
+  Java, Spring, Spring Boot, Jpa, Spring Data Jpa, Query DSL
 
 </div>
 
