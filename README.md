@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](#) 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/audgkss/)](https://www.instagram.com/audgkss/) 
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:office991013@gmail.com)](mailto:office991013@gmail.com)
-  </div>
+  
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yumyeonghan)](https://github.com/anuraghazra/github-readme-stats)
 
