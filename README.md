@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ### Interest
   Java, Spring, Spring Boot, Jpa, Spring Data Jpa, Query DSL
 
-</div>
+
 
 
 
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 </div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yumyeonghan)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
