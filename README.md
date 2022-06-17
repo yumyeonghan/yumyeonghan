@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Web Project
 
 ### Interest
-- Spring, Spring Boot, Jpa, Spring Data Jpa, Query DSL
+-Java, Spring, Spring Boot, Jpa, Spring Data Jpa, Query DSL
 
 
 <div align=center>
