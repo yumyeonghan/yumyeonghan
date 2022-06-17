@@ -20,15 +20,12 @@ Here are some ideas to get you started:
 
 </div>
 
-### Machine Learning Engineer
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
+### backend developer
+- web
 
 ### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+- Spring, Spring Boot, Jpa, Spring Data Jpa, Query DSL
+
 
 <div align=center>
 
