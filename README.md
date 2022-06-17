@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align=center>
 ### Introduce
--반갑습니다. 제 이름은 유명한입니다. 현재 컴퓨터공학부 재학 중이고 백엔드를 공부하고 있습니다.
+반갑습니다. 제 이름은 유명한입니다. 현재 컴퓨터공학부 재학 중이고 백엔드를 공부하고 있습니다.
 
 ### Interest
--Java, Spring, Spring Boot, Jpa, Spring Data Jpa, Query DSL
+Java, Spring, Spring Boot, Jpa, Spring Data Jpa, Query DSL
+</div>
 
 
-<div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](#) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/audgkss/)](https://www.instagram.com/audgkss/) 
